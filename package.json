@@ -43,7 +43,7 @@
   "browser": "lib/browser.js",
   "dependencies": {
     "asn1.js": "=0.4.1",
-    "bitcore": "^0.12.0",
+    "bitcore": "git://github.com/bitpay/bitcore.git#a4ac3f50d300b3f89fad02f9e38fc536ac90abdc",
     "jsrsasign": "=0.0.3",
     "protobufjs": "=3.0.0"
   },
